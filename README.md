@@ -7,7 +7,9 @@ Three Glitches demonstrating the different approaches to writing a Node.js serve
 - Cookie login/logout
 - Non-200 status code response
 
-All projects on Glitch can be 'remixed', ie forked, and live edited.
+Notes:
+- All projects on Glitch can be 'remixed', i.e. forked, and live edited.
+- Do not use the cookie code in production as they are all unsigned and are not marked as HttpOnly, so can be easily edited by the client.
 
 [Node.js Vanilla](https://nodejs.org/en/)
 - [Code](https://glitch.com/edit/#!/fac-nodejs-server)
