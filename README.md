@@ -11,14 +11,8 @@ Notes:
 - All projects on Glitch can be 'remixed', i.e. forked, and live edited.
 - Do not use the cookie code in production as they are all unsigned and are not marked as HttpOnly, so can be easily edited by the client.
 
-[Node.js Vanilla](https://nodejs.org/en/)
-- [Code](https://glitch.com/edit/#!/fac-nodejs-server)
-- [Live Site](https://fac-nodejs-server.glitch.me/)
-
-[Express](http://expressjs.com/)
-- [Code](https://glitch.com/edit/#!/fac-express-server)
-- [Live Site](https://fac-express-server.glitch.me/)
-
-[Hapi](https://hapijs.com/)
-- [Code](https://glitch.com/edit/#!/fac-hapi-server)
-- [Live Site](https://fac-hapi-server.glitch.me/)
+| [Node.js Vanilla](https://nodejs.org/en/) | [Express](http://expressjs.com/) | [Hapi](https://hapijs.com/) |
+|---|---|---|
+|[Docs](https://nodejs.org/dist/latest-v6.x/docs/api/)|[Docs](http://expressjs.com/en/4x/api.html)|[Docs](https://hapijs.com/api)|
+|[Code](https://glitch.com/edit/#!/fac-nodejs-server)|[Code](https://glitch.com/edit/#!/fac-express-server)|[Code](https://glitch.com/edit/#!/fac-hapi-server)|
+|[Live](https://fac-nodejs-server.glitch.me/)|[Live](https://fac-express-server.glitch.me/)|[Live](https://fac-hapi-server.glitch.me/)|
