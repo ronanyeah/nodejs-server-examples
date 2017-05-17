@@ -1,6 +1,6 @@
 # Node.js Server Glitches
 
-Three [Glitches](https://glitch.com) demonstrating the different approaches to writing a Node.js server with the bare minimum of package dependencies. This is intended to demonstrate:
+Three [Glitches](https://glitch.com) demonstrating different approaches to writing a Node.js server with the bare minimum of package dependencies. This is intended to demonstrate:
 - Static file serving
 - Text response
 - JSON response
